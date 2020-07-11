@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubernetes on Sam Larson</title>
+    <link>/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on Sam Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes Chaos Tools: man-o-war</title>
+      <link>/posts/manowar-1/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/manowar-1/</guid>
+      <description>Kubernetes Chaos Tools: man-o-war Kubernetes has maintained a position in the spotlight of cloud infrastructure ever since Google donated it to the CNCF in 2015. In a search to strengthen the robustness of my personal Kubernetes clusters I experiment on, I looked for an open-source suite of chaos engineering tools. Gremlin is a firm founded by some of the engineers at Netflix who originally coined the term &amp;lsquo;chaos engineering&amp;rsquo;, and their product certainly has the most complete set of features, but in terms of open-source projects there were four major options to consider:</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>/project/coming-soon/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/coming-soon/</guid>
+      <description>Coming Soon  I&#39;m currently in the process of categorizing and documenting my more recent projects that I&#39;ve been working on. For now, here are some function excerpts from some of those endeavors as a sample:
+  AWS Parallelization: parallelization: Uses multiprocessing library to execute boto3 calls across accounts
+def parallelization(data, function, service, resource, region, accnt_subset, env_set=False, dry_run=False): if len(data) &amp;lt; 2: print(&amp;#34;\nERROR: Length of account IDs is 1. Please use this script for parallel actions across &amp;#34; &amp;#34;multiple accounts and confirm you are selecting a verified account list.</description>
+    </item>
+    
+  </channel>
+</rss>

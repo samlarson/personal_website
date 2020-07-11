@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sam Larson</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Sam Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes Chaos Tools: man-o-war</title>
+      <link>/posts/manowar-1/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/manowar-1/</guid>
+      <description>Kubernetes Chaos Tools: man-o-war Kubernetes has maintained a position in the spotlight of cloud infrastructure ever since Google donated it to the CNCF in 2015. In a search to strengthen the robustness of my personal Kubernetes clusters I experiment on, I looked for an open-source suite of chaos engineering tools. Gremlin is a firm founded by some of the engineers at Netflix who originally coined the term &amp;lsquo;chaos engineering&amp;rsquo;, and their product certainly has the most complete set of features, but in terms of open-source projects there were four major options to consider:</description>
+    </item>
+    
+  </channel>
+</rss>

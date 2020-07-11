@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai on Sam Larson</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in ai on Sam Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>/project/coming-soon/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/coming-soon/</guid>
+      <description>Coming Soon  I&#39;m currently in the process of categorizing and documenting my more recent projects that I&#39;ve been working on. For now, here are some function excerpts from some of those endeavors as a sample:
+  AWS Parallelization: parallelization: Uses multiprocessing library to execute boto3 calls across accounts
+def parallelization(data, function, service, resource, region, accnt_subset, env_set=False, dry_run=False): if len(data) &amp;lt; 2: print(&amp;#34;\nERROR: Length of account IDs is 1. Please use this script for parallel actions across &amp;#34; &amp;#34;multiple accounts and confirm you are selecting a verified account list.</description>
+    </item>
+    
+  </channel>
+</rss>
